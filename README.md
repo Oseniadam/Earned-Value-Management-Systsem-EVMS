@@ -1,4 +1,4 @@
-# Earned-Value-Management-Systsem-EVMS
+# Earned-Value-Management-Systsem (EVMS)
 Earned Value Management Systems allow the project manager to answer the following three questions, as they relate to the project:
 
 1.  Where have we been?
