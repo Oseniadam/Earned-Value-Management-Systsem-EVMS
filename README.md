@@ -123,4 +123,33 @@ The Estimate at Completion (EAC) is the actual cost to date plus an objective es
 The Budget at Completion (BAC) is the sum of all budgets allocated to a project scope. The Project BAC must always equal the Project Total PV. If they are not equal, your earned value calculations and analysis will be inaccurate.
 
 
+The EAC is the best estimate of the total cost at the completion of the project. The EAC is a periodic evaluation of the project status, usually on a monthly basis or when a significant change happens to the project. EACs are developed with varying degrees of detail and supporting documents. A comprehensive EAC is usually prepared annually or if there are any major changes in the project. The EAC should be reviewed on a monthly basis by the Control Account Manager (CAM) or those responsible. The EAC is developed for projects as well as Control Accounts and Work Packages. There are multiple ways to develop an EAC. The technique selected is based upon the dollar value of the project, the risk, accounting system available and the accuracy of the estimates.
+
+One common formula for determining the EAC is expressed as budget at completion divided by the current CPI of the project. 
+(EAC = BAC/CPI)
+
+The above presented formulas are the foundation to performing Earned Value Analysis and utilizing an Earned Value Management System.
+
+In summary, here are five basic ground rules for effective Earned Value Management:
+
+Organize the project team and the scope of work, using a work breakdown structure. Each task should have a single WBS number and organizational code.
+Schedule the tasks in a logical manner so that lower level schedule elements support subsequent elements and the top level milestones.
+Allocate the total budget resources to time-phased control accounts.
+Establish objective means for measuring work accomplishment. Budget should be earned in the same way that it was planned.
+Control the project by analyzing cost and performance variances, assessing final costs, developing corrective actions, and controlling changes to the integrated baseline.
+The reader should acknowledge that the discipline of Earned Value Management is more complicated and more complex than the information presented in this paper summary. This paper is intended to be an opening position for the reader to begin to build and assemble a knowledge base for Earned Value Management. Good luck in your personal EVM endeavors and remember, it all begins with a sound project plan and you too, can do earned value management!
+
+References
+Project Management Institute. (2004) A Guide to the Project Management Body of Knowledge (PMBOK® Guide). (Third ed.) Newtown Square, PA: Project Management Institute
+
+Project Management Institute. (2005) Practice standard for earned value management (PMI Global Standard) (2005 ed.) Newtown Square, PA: Project Management Institute
+
+Government Electronics and Information Association. (2002) Earned value management systems Approved: May 19, 1998. Reaffirmed: August 28, 2002. ANSI/EIA-748-A-1998
+
+United States Department of Energy (2005) Earned value management application guide, version 1.6. January 1, 2005. Office of Engineering and Construction Management.
+
+© 2006, Chance Reichel, PMP
+Originally published as a part of 2006 PMI Global Congress Proceedings – Seattle Washington
+
+
 
