@@ -9,19 +9,17 @@ Earned Value Management Systems allow the project manager to answer the followin
 
 In Earned Value Management there are three Data Sources:
 
-The budget (or planned) value of work scheduled
+1.  The budget (or planned) value of work scheduled
 
-The actual value of work completed
+2.  The actual value of work completed
 
-The “earned value” of the physical work completed
+3.  The “earned value” of the physical work completed
 
 Earned Value takes these three data sources and compares 
 
-1. the budgeted value of work scheduled with 
+1. The budgeted value of work scheduled with the “earned value of physical work completed” and 
 
-2. the “earned value of physical work completed” and 
-
-3. the actual value of work completed.
+2. The actual value of work completed.
 
 # Planned Value
 Planned Value describes how far along project work is supposed to be at any given point in the project schedule and cost estimate. 
