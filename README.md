@@ -75,10 +75,52 @@ The cost variance is defined as the
 “difference between earned value and actual costs."
 (CV = EV – AC)
 
-(PMI, 2004, p. 357) Sometimes this formula is expressed as the difference between budgeted cost of work performed and actual cost work performed. 
+![image](https://user-images.githubusercontent.com/57412626/216846810-d36618d7-e1d3-4c6b-a686-4bdb24e6e46e.png)
+
+Sometimes this formula is expressed as the difference between budgeted cost of work performed and actual cost work performed. 
 If the **variance is equal to 0**, the project is on budget. 
 If a **negative variance** is determined, the project is over budget and
 if the **variance is positive** the project is under budget.
+
+# Performance Indexes
+Another analysis that can be done by using EVMS is that of Performance or establishing the project’s burn rate. Two examination of performance are available to the project manager, Schedule Performance Index (SPI) and Cost Performance Index (CPI).
+
+# Schedule Performance Index
+The SPI is defined by PMI’s PMBOK® Guide as “a measure of schedule efficiency on a project. It is the ratio of earned value (EV) to planned value (PV). The SPI is equal to earned value divided by planned value, SPI = EV/PV. An SPI equal to or greater than one indicates a favorable condition and a value of lass than one indicates an unfavorable condition.” (PMI, 2004, p. 374 For example, should your calculation show a SPI of 1.1, that translate to your project recognizing $1.10 for every $1.00 spent to date on your project. Assuming your SPI efficiency remains through out the reminder of work; your project will finish ahead of schedule.
+
+# Cost Performance Index CPI
+The CPI is defined by PMI’s PMBOK® Guide as a “measure of cost efficiency on a project. 
+It is the ratio of earned value (EV) to actual costs (AC). 
+The CPI is equal to the earned value divided by the actual costs, CPI = EV – AC.” (PMI, 2004, p. 356 
+
+A CPI equal to or greater than one indicates a favorable condition and a value of less than one indicates an unfavorable condition. For example, should your calculation show a CPI of $0.90, which translates to your project recognizing $0.90 for every $1.00 spent to date on your project. Assuming your CPI efficiency remains the same throughout the reminder of work; your project will be over budget.
+
+# Potential Causes of Favorable Cost Performance
+Efficiencies being realized
+Work less complex than anticipated
+Fewer revisions and rework
+Favorable Market Fluctuations in the Cost of Labor or Material
+Overhead Rate Decreases
+Potential Causes of Unfavorable Cost Performance
+Work more complex than anticipated
+Design review comments extensive
+Rework
+Unclear Requirements
+Scope Creep
+Unfavorable Market Fluctuations in the Cost Labor or Material
+Overhead Rate Increases
+Estimates to Complete
+
+Now, how to analyze the future or what is expected to happen on a project given the progress measurements reported to date. 
+Anticipating future progress requires determining when the project will be completed and how much it will cost to complete it.
+
+To complete our analysis, we will look at the Estimate at Completion (EAC) and the Budget at Completion (BAC). 
+
+# Estimate at Completion (EAC)
+The Estimate at Completion (EAC) is the actual cost to date plus an objective estimate of costs for remaining authorized work. The objective in preparing an EAC is to provide an accurate projection of cost at the completion of the project. 
+
+# Budget at Completion (BAC)
+The Budget at Completion (BAC) is the sum of all budgets allocated to a project scope. The Project BAC must always equal the Project Total PV. If they are not equal, your earned value calculations and analysis will be inaccurate.
 
 
 
