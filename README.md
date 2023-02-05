@@ -43,14 +43,15 @@ PV, also known as Budget Cost of Work Scheduled (BCWS), can be defined as:
 #  Baseline
 ##  Performance Measurement Baseline
 ### What performance measurement will be based upon.
-#### Actual Costs
+# Actual Costs
 Actual Cost (AC), also called actual expenditures, is the cost incurred for executing work on a project. This figure tells you what you have spent and, as with Planned Value, can be looked at in terms of cumulative and current. Cumulative AC is the sum of the actual cost for activities performed to date. Current AC is the actual costs of activities performed during a given period. This period could represent days, weeks, months, etc. AC is also called Actual Cost of Work Performed (ACWP).
 
-**Earned Value**
+# Earned Value**
 To report the accomplishments of the project, you must apply Earned Value (EV) to the figures and calculations in the project. EV is the quantification of the “worth” of the work done to date. In other words, EV tells you, in physical terms, what the project has accomplished. As with PV and AC, EV can be presented in a Cumulative and Current fashion. Cumulative EV is the sum of the budget for the activities accomplished to date. Current EV is the sum of the budget for the activities accomplished in a given period. Earned Value is also called Budgeted Cost of Work Performed (BCWP).
 
-**Planned Value** (PV) is determined by the cost and schedule baseline. 
-**Actual Cost** (AC) is determined by the actual cost incurred on the project. 
+# Planned Value** (PV) is determined by the cost and schedule baseline. 
+
+# Actual Cost** (AC) is determined by the actual cost incurred on the project. 
 Earned Value (EV) tells you, in physical terms, what the project accomplished.
 
 # Variance Analysis
